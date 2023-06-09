@@ -45,7 +45,7 @@ After you're finished please remove all the comments and instructions!
     - [Install](#install)
     - [Usage](#usage)
     - [Run tests](#run-tests)
-  - [👥 Authors ](#-authors-)
+  - [👥 Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
@@ -147,7 +147,7 @@ To run tests, run the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="author"></a>
 
 👤 **Choice Osobor**
 
@@ -172,7 +172,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/KIsmoilov/hello_react_front_end/issues).
+Feel free to check the [issues page](https://github.com/techEmprez/hello_react_front_end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
