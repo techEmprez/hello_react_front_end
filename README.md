@@ -106,6 +106,12 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+#Link to HELLO_RAILS_BACK_END
+
+Click [Here](https://github.com/techEmprez/hello_react_front_end/pull/1)
+
+
+
 To get a local copy up and running, follow these steps.
 
 ### Setup
