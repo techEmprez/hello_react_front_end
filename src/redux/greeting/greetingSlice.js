@@ -5,7 +5,6 @@ const FETCH_GREETING = '/HELLO-RAILS-REACT/FETCH_GREETING';
 export const getGreeting = createAsyncThunk(FETCH_GREETING, async () => {
   const response = await fetch('http://localhost:3000/api/v1/greetings');
   const data = await response.json();
-  console.log(data);
   return data;
 });
 
